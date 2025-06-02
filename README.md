@@ -46,10 +46,18 @@ This project strengthened my understanding of building real-world Android apps f
 ---
 
 ## 🎥 App Preview
-![Screenshot_2025-05-31-22-33-35-182_com example studysmartapp](https://github.com/user-attachments/assets/47510540-320d-48a7-9754-77696aa3decb)
-![Screenshot_2025-05-31-22-34-05-797_com example studysmartapp](https://github.com/user-attachments/assets/b54a5cdf-6ad4-48bf-8d4c-bce5cb4c680d)
-![Screenshot_2025-05-31-22-33-45-127_com example studysmartapp](https://github.com/user-attachments/assets/7096b289-b625-4bd0-bf58-b82d7ce1ab2d)
-![Screenshot_2025-05-31-22-34-21-666_com example studysmartapp](https://github.com/user-attachments/assets/ff68121a-7c4d-4a56-b7ae-15395b0c38f1)
+
+## Dashboard
+![main](https://github.com/user-attachments/assets/f4568c8f-ead8-4c9a-9be8-f1c9d55bf143)
+
+## Session Screen
+![Screenshot_2025-05-31-22-34-21-666_com example studysmartapp](https://github.com/user-attachments/assets/64886543-acbe-4ee8-ab87-67d926fdff14)
+
+## Task Screen
+![Screenshot_2025-05-31-22-34-05-797_com example studysmartapp](https://github.com/user-attachments/assets/26061793-8f19-4e31-b7ee-4b974baadeb5)
+
+## Subject Screen
+![Screenshot_2025-05-31-22-33-45-127_com example studysmartapp](https://github.com/user-attachments/assets/b31287ad-78b9-4bd3-bfbc-953ca99081ec)
 
 ---
 
