@@ -21,25 +21,33 @@ Helps users manage their study schedule, track tasks, and stay productive — bu
 
 ## 🛠 Tech Stack
 
-- **Kotlin**
-- **Jetpack Compose**
-- **ViewModel**
-- **State & Flow**
-- **Room Database** (for local storage)
-- **Material 3** UI Components
-- **MVVM Architecture**
+- **Kotlin** (with Kotlin Serialization)  
+- **Jetpack Compose** (Material 3, Navigation, Lifecycle-aware Compose)  
+- **AndroidX Lifecycle** (ViewModel, Runtime Compose)  
+- **Room Database** (for local data persistence)  
+- **Dagger-Hilt** (Dependency Injection)  
+- **KSP** (Kotlin Symbol Processing for annotation processing)  
+- **Material 3** UI Components and Google Fonts integration  
+- **State & Flow** (for reactive state management)  
+- **Desugaring** (for backward compatibility with newer Java APIs)  
+- **MVVM Architecture**  
 
 ---
 
 ## 📚 What I Learned
 
-Through this project, I gained hands-on experience with:
+During this project, I deepened my understanding of:
 
-- 🧱 Structuring a scalable Compose-based UI
-- 🧠 State handling and reactive programming with `Flow`
-- 🎨 Creating modern, responsive UIs using Material 3
-- 📦 Clean architecture and layered code separation
-- 💾 Working with Room DB for local persistence
+- 🧱 Architecting scalable UIs with Jetpack Compose and Material 3  
+- 🧠 Managing state and side-effects with Kotlin Flow and Compose lifecycle-aware components  
+- 🎨 Leveraging Material 3 theming and typography including Google Fonts integration  
+- 📦 Implementing clean architecture with layered separation of concerns (ViewModel, Repository, Room)  
+- 💾 Efficiently persisting data locally using Room database with Kotlin Coroutines  
+- 🧩 Using Dagger-Hilt for robust dependency injection and integrating it with Compose  
+- 🛠 Utilizing Kotlin Symbol Processing (KSP) to speed up compile-time annotation processing  
+- 🔧 Configuring Gradle with modern plugins and dependency management, including platform BOMs  
+- 🔄 Enabling Java language desugaring for improved backward compatibility  
+- 🚀 Building fully reactive Android apps using modern Jetpack libraries and best practices  
 
 This project strengthened my understanding of building real-world Android apps from scratch using modern best practices.
 
@@ -47,17 +55,33 @@ This project strengthened my understanding of building real-world Android apps f
 
 ## 🎥 App Preview
 
-## Dashboard
-![main](https://github.com/user-attachments/assets/f4568c8f-ead8-4c9a-9be8-f1c9d55bf143)
 
-## Session Screen
-![Screenshot_2025-05-31-22-34-21-666_com example studysmartapp](https://github.com/user-attachments/assets/64886543-acbe-4ee8-ab87-67d926fdff14)
+<div style="margin-bottom: 20px;">
+  <strong>Dashboard Screen</strong><br>
+  <img src="https://github.com/user-attachments/assets/17142590-6192-4bc1-b358-16fbea7edc57" width="200" alt="Dashboard Light" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/6c98519a-444f-4a1a-b4b3-88075ab35024" width="200" alt="Dashboard Dark">
+</div>
 
-## Task Screen
-![Screenshot_2025-05-31-22-34-05-797_com example studysmartapp](https://github.com/user-attachments/assets/26061793-8f19-4e31-b7ee-4b974baadeb5)
 
-## Subject Screen
-![Screenshot_2025-05-31-22-33-45-127_com example studysmartapp](https://github.com/user-attachments/assets/b31287ad-78b9-4bd3-bfbc-953ca99081ec)
+<div style="margin-bottom: 20px;">
+  <strong>Task Screen</strong><br>
+  <img src="https://github.com/user-attachments/assets/a5a50801-c561-431b-a570-7b2dbc303648" width="200" alt="Task Light" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/2c74d61f-7918-464d-9f10-3911e248c77d" width="200" alt="Task Dark">
+</div>
+
+
+<div style="margin-bottom: 20px;">
+  <strong>Subject Screen</strong><br>
+  <img src="https://github.com/user-attachments/assets/decf40e6-1246-4516-a4f2-03a8d7895966" width="200" alt="Subject Light" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/a6d5bf6c-262f-49dc-97f8-7cbcb367bbaf" width="200" alt="Subject Dark">
+</div>
+
+
+<div style="margin-bottom: 20px;">
+  <strong>Session Screen</strong><br>
+  <img src="https://github.com/user-attachments/assets/091a6b71-90e8-4c7d-9cc7-8c99caa38193" width="200" alt="Session Light" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/5d63fd01-5b3d-4ed9-b126-88439b6a1eec" width="200" alt="Session Dark">
+</div>
 
 ---
 
