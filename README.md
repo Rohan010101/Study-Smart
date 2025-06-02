@@ -56,29 +56,43 @@ This project strengthened my understanding of building real-world Android apps f
 ## 🎥 App Preview
 
 
-<div style="text-align: center; margin-bottom: 30px;">
-  <strong>Dashboard Screen</strong><br><br>
-  <img src="https://github.com/user-attachments/assets/17142590-6192-4bc1-b358-16fbea7edc57" width="200" alt="Dashboard Light" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/6c98519a-444f-4a1a-b4b3-88075ab35024" width="200" alt="Dashboard Dark">
-</div>
+### Dashboard Screen
 
-<div style="text-align: center; margin-bottom: 30px;">
-  <strong>Task Screen</strong><br><br>
-  <img src="https://github.com/user-attachments/assets/a5a50801-c561-431b-a570-7b2dbc303648" width="200" alt="Task Light" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/2c74d61f-7918-464d-9f10-3911e248c77d" width="200" alt="Task Dark">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17142590-6192-4bc1-b358-16fbea7edc57" width="200" alt="Dashboard Light" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6c98519a-444f-4a1a-b4b3-88075ab35024" width="200" alt="Dashboard Dark" />
+</p>
 
-<div style="text-align: center; margin-bottom: 30px;">
-  <strong>Subject Screen</strong><br><br>
-  <img src="https://github.com/user-attachments/assets/decf40e6-1246-4516-a4f2-03a8d7895966" width="200" alt="Subject Light" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/a6d5bf6c-262f-49dc-97f8-7cbcb367bbaf" width="200" alt="Subject Dark">
-</div>
+---
 
-<div style="text-align: center; margin-bottom: 30px;">
-  <strong>Session Screen</strong><br><br>
-  <img src="https://github.com/user-attachments/assets/091a6b71-90e8-4c7d-9cc7-8c99caa38193" width="200" alt="Session Light" style="margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/5d63fd01-5b3d-4ed9-b126-88439b6a1eec" width="200" alt="Session Dark">
-</div>
+### Task Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5a50801-c561-431b-a570-7b2dbc303648" width="200" alt="Task Light" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2c74d61f-7918-464d-9f10-3911e248c77d" width="200" alt="Task Dark" />
+</p>
+
+---
+
+### Subject Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/decf40e6-1246-4516-a4f2-03a8d7895966" width="200" alt="Subject Light" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a6d5bf6c-262f-49dc-97f8-7cbcb367bbaf" width="200" alt="Subject Dark" />
+</p>
+
+---
+
+### Session Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/091a6b71-90e8-4c7d-9cc7-8c99caa38193" width="200" alt="Session Light" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/5d63fd01-5b3d-4ed9-b126-88439b6a1eec" width="200" alt="Session Dark" />
+</p>
 
 
 ---
